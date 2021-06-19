@@ -14,7 +14,8 @@
   "dependencies": {
     "node-sass": "^6.0.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "surge": "^0.23.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",
